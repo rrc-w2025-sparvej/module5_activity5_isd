@@ -1,1 +1,12 @@
-Update this before file with details user should know before installing.
+## Update this before file with details user should know before installing.
+
+
+
+Welcome to the Sports Application Installer!
+
+This installer will guide you through the installation process.
+
+Before-installation files are important because they inform the user
+about what is being installed and what to expect.
+
+Student: Sanya

@@ -1,1 +1,10 @@
-Update this license file with licensing details.
+Sports Application License
+
+This application was created for educational purposes as part of
+Module 5: Documentation and Distribution.
+
+License files are important because they inform the user of their
+rights, usage rules, and legal restrictions.
+
+Student: Sania Parvej
+
