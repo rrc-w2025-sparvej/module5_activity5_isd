@@ -13,7 +13,7 @@ Sania Parvej
 
 Here are three Module 5 components I implemented in this activity:
 
-I generated HTML help files using Sphinx.
+I  generated HTML help files using Sphinx.
 
 I created an executable version of the application using PyInstaller.
 
