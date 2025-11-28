@@ -7,8 +7,14 @@ This activity will help to reinforce learning of the Module 5 concepts of:
 
 ## Author
 
-[Your name]
+Sania Parvej
 
 ## Additional Information
 
-[ Use this space to include additional information that may help in your learning. ]
+Here are three Module 5 components I implemented in this activity:
+
+I generated HTML help files using Sphinx.
+
+I created an executable version of the application using PyInstaller.
+
+I built a full Windows installer using Inno Setup, including before/after info and a license file.
